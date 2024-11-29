@@ -1,6 +1,6 @@
 MÆc - Decentralized Corporate Ecosystem
 
-MÆc is a decentralized autonomous corporation designed to provide businesses with a revolutionary platform for decentralized governance, resource management, and automated contract execution. By utilizing blockchain technology and smart contracts, MÆc enables seamless, secure, and transparent corporate operations without the need for intermediaries.
+MÆc is a decentralized autonomous corporation designed to provide businesses with decentralized governance, resource management, and automated contract execution. By utilizing blockchain technology and smart contracts, MÆc enables seamless, secure, and transparent corporate operations without the need for intermediaries.
 
  Mission
 
