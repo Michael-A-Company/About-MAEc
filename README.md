@@ -1,6 +1,6 @@
  Mission
 
-MÆc's mission is to democratize API understanding and development through decentralized analysis.  Our TEDDi software provides comprehensive insights from API specifications, promoting seamless integration and efficiency. TEDDi is governed by its community. MÆc strives to empower developers, users, goverments and corporations with the tools they need to build a more connected future.
+Our TEDDi software provides comprehensive insights from API specifications, promoting seamless integration and efficiency. TEDDi is governed by its community. MÆc strives to empower developers, users, goverments and corporations with the tools they need to build a more connected future.
 
 
  How We Make Meaning
