@@ -5,6 +5,6 @@ Our TEDDi software provides comprehensive insights from API specifications, prom
 
  How We Make Meaning
 
-MÆc provides developers, users, goverments and corporation with the tools and infrastructure needed to succeed in a decentralized world. By embracing MÆc, organizations gain access to secure, efficient, and transparent operations that drive innovation and growth without relying on intermediaries. 
+MÆc provides developers, users, goverments and corporations with a tool and infrastructure needed to take advantage of APIs. By embracing TEDDi, organizations gain access to a secure, efficient, and transparent code that drives innovation and growth. 
 
 
