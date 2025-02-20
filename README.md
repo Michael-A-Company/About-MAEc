@@ -5,6 +5,6 @@ Our TEDDi software provides comprehensive insights from API specifications, prom
 
  Mission
 
-MÆc strives to empower developers, users, goverments and corporations with the tools they need to build a more connected future.
+MÆc strives to empower developers, users, goverments and corporations with software they need to build a more connected future.
 
 
